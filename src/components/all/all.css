@@ -1,0 +1,21 @@
+.img-original{
+    width: auto;
+    height: 300px;
+}
+.all-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 40px 5px;
+}
+.blog-card{
+    border: none;
+    border-radius: 5px;
+}
+.line{
+    width: 90%;
+    border: 10px solid cadetblue;
+    border-radius: 5px;
+}

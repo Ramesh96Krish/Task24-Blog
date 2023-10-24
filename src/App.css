@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+.nav-bar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  cursor: pointer;
+  font-size: larger;
+  font-weight: 400;
+}
+.nav-elements{
+  color: cadetblue;
+}
+.nav-elements:hover{
+  text-decoration: underline;
+  color: cadetblue;
+}
+.link{
+  text-decoration: none;
+  color: black;
+}
+.link:hover{
+  color: cadetblue;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 5rem;
+  text-decoration-thickness: 5px;
+}
